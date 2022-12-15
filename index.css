@@ -1,0 +1,7 @@
+.sc{
+    width: fit-content;
+    border: 1px solid #bbbbbb;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    text-align: center;
+}
